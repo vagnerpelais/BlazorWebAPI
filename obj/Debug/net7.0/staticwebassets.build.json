@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Yf4CSyIv8+WqpoiXyab7qJOLn+O271wuulzWBCfUwY4=",
+  "Source": "BlazorBackend",
+  "BasePath": "_content/BlazorBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
